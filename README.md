@@ -43,7 +43,7 @@ If you want to search & filters the complete database of [.ARMY one word domains
 | aberdonian.army | available | 68       | 1%     | 10     |                 |                  |                  |
 | aberrant.army   | available | 74       | 7%     | 8      |                 |                  |                  |
 | abeyant.army    | available | 56       | 2%     | 7      |                 |                  |                  |
-| abhorrent.army  | available | 54       | 1%     | 9      |                 |                  |                  |
+| abhorrent.army  | available | 54       | 3%     | 9      |                 |                  |                  |
 | abiding.army    | available | 106      | 5%     | 7      |                 |                  |                  |
 | abient.army     | available | 54       | 1%     | 6      |                 |                  |                  |
 | ability.army    | available | 92       | 18%    | 7      |                 |                  |                  |
