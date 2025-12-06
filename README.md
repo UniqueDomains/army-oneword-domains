@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .ARMY one-word domains still available to buy.
 
-This dataset contains 4,623 .ARMY one word domains with availability, attractiveness and demand scores.
+This dataset contains 4,620 .ARMY one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.ARMY one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=army-oneword-domains&utm_content=description.top) (4,624) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -32,7 +32,7 @@ If you want to search & filters the complete database of [.ARMY one word domains
 | abatic.army     | available | 54       | 2%     | 6      |                 |                  |                  |
 | abaxial.army    | available | 54       | 2%     | 7      |                 |                  |                  |
 | abbatial.army   | available | 50       | 1%     | 8      |                 |                  |                  |
-| abc.army        | available | 102      | 41%    | 3      |                 |                  |                  |
+| abc.army        | premium   | 102      | 41%    | 3      |                 |                  |                  |
 | abdicable.army  | available | 50       | 1%     | 9      |                 |                  |                  |
 | abdominal.army  | available | 82       | 5%     | 9      |                 |                  |                  |
 | abdominous.army | available | 56       | 1%     | 10     |                 |                  |                  |
