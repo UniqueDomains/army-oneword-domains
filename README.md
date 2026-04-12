@@ -72,7 +72,7 @@ print(df.head())
 | live.army       | premium   | $82.50    | $82.50        | 108            | 56     | 4      | name.com                   |
 | snap.army       | available | $19.99    | $50.99        | 90             | 46     | 4      | name.com                   |
 | book.army       | resell    | —         | —             | 82             | 55     | 4      | NameCheap, Inc.            |
-| zero.army       | premium   | $250      | $250          | 112            | 54     | 4      | name.com                   |
+| zero.army       | premium   | $250      | $250          | 112            | 53     | 4      | name.com                   |
 | creative.army   | available | $19.99    | $50.99        | 92             | 45     | 8      | name.com                   |
 | link.army       | resell    | —         | —             | 68             | 54     | 4      | GoDaddy.com, LLC           |
 | business.army   | premium   | $128.70   | $128.70       | 100            | 53     | 8      | namecheap                  |
