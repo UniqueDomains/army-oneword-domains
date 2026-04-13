@@ -68,7 +68,7 @@ print(df.head())
 | technology.army | resell    | $48.98    | —             | 88             | 35     | 10     | GoDaddy.com, LLC           |
 | enterprise.army | premium   | $1,040    | $1,040        | 68             | 61     | 10     | namecheap                  |
 | clear.army      | available | $19.99    | $50.99        | 90             | 47     | 5      | name.com                   |
-| free.army       | resell    | —         | —             | 88             | 59     | 4      | Porkbun LLC                |
+| free.army       | resell    | —         | —             | 88             | 57     | 4      | Porkbun LLC                |
 | live.army       | premium   | $82.50    | $82.50        | 108            | 56     | 4      | name.com                   |
 | snap.army       | available | $19.99    | $50.99        | 90             | 46     | 4      | name.com                   |
 | book.army       | resell    | —         | —             | 82             | 55     | 4      | NameCheap, Inc.            |
