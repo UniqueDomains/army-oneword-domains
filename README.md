@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .army one-word domains from Unique
 
 **Public extract:** 9,320 rows · **Live catalog:** 9,320 domains
 
-**Last updated:** 2026-04-12  
+**Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/army`  
 **Best for:** founders, investors, studios
 
@@ -76,8 +76,8 @@ print(df.head())
 | creative.army   | available | $19.99    | $50.99        | 92             | 45     | 8      | name.com                   |
 | link.army       | resell    | —         | —             | 68             | 54     | 4      | GoDaddy.com, LLC           |
 | business.army   | premium   | $128.70   | $128.70       | 100            | 53     | 8      | namecheap                  |
-| mix.army        | available | $19.99    | $50.99        | 66             | 44     | 3      | name.com                   |
-| global.army     | resell    | —         | —             | 108            | 50     | 6      | Squarespace Domains II LLC |
+| mix.army        | available | $19.99    | $50.99        | 66             | 45     | 3      | name.com                   |
+| global.army     | resell    | —         | —             | 108            | 51     | 6      | Squarespace Domains II LLC |
 | jesus.army      | premium   | $250      | —             | 88             | 53     | 5      | name.com                   |
 | energy.army     | available | $48.98    | —             | 82             | 43     | 6      | namecheap                  |
 | god.army        | resell    | —         | —             | 90             | 49     | 3      | GoDaddy.com, LLC           |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .ARMY One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .ARMY One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
