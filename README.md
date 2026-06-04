@@ -14,9 +14,9 @@ Daily-updated public extract of available and resale .army one-word domains from
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,283 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,283 domains · **Median ask:** $26.54 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,283 domains · **Median ask:** $26.18 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
+**Last updated:** 2026-06-04  
 **Canonical page:** `https://unique.domains/domains/tld/army`  
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain                  | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| ----------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| shortcuts.army          | available | $19.99    | —             | 48             | 41     | 10     | name.com  |
-| Books.army              | premium   | $84       | $84           | 52             | 49     | 5      | namecheap |
-| matcha.army             | available | $19.99    | —             | 86             | 39     | 6      | name.com  |
-| Tools.army              | premium   | $280      | $280          | 56             | 40     | 5      | namecheap |
-| neuroscience.army       | available | $19.99    | —             | 80             | 37     | 12     | name.com  |
-| partners.army           | premium   | $1,000    | —             | 61             | 31     | 8      | name.com  |
-| events.army             | available | $19.99    | —             | 68             | 37     | 6      | name.com  |
-| shops.army              | premium   | $82.50    | —             | 64             | 24     | 5      | name.com  |
-| trends.army             | available | $19.99    | —             | 60             | 32     | 6      | name.com  |
-| loans.army              | premium   | $78.54    | $78.54        | 58             | 24     | 5      | namesilo  |
-| William.army            | available | $48.98    | —             | 74             | 31     | 7      | namecheap |
-| coupons.army            | premium   | $78.54    | $78.54        | 52             | 24     | 7      | namesilo  |
-| letsgo.army             | available | $19.99    | —             | 57             | 31     | 7      | name.com  |
-| girls.army              | premium   | $250      | —             | 83             | 23     | 5      | name.com  |
-| rewards.army            | available | $19.99    | —             | 62             | 30     | 7      | name.com  |
-| designs.army            | premium   | $1,000    | —             | 72             | 21     | 7      | name.com  |
-| spaces.army             | available | $19.99    | —             | 54             | 30     | 6      | name.com  |
-| VirginiaBeach.army      | premium   | $280      | $280          | 58             | 9      | 14     | namecheap |
-| blocks.army             | available | $19.99    | —             | 53             | 29     | 6      | name.com  |
-| DistrictofColumbia.army | premium   | $280      | $280          | 52             | 4      | 20     | namecheap |
+| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
+| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| icu.army          | available | $19.99    | —             | 84             | 30     | 3      | name.com         |
+| applaud.army      | available | $19.99    | —             | 100            | 9      | 7      | name.com         |
+| prominent.army    | available | $19.99    | —             | 91             | 16     | 9      | name.com         |
+| lapse.army        | available | $19.99    | —             | 88             | 7      | 5      | name.com         |
+| alkaline.army     | available | $19.99    | $50.99        | 88             | 11     | 8      | name.com         |
+| searchengine.army | available | $19.99    | —             | 92             | 12     | 13     | name.com         |
+| jewelry.army      | available | $19.99    | —             | 97             | 28     | 7      | name.com         |
+| AOL.army          | premium   | —         | —             | 86             | 17     | 3      | —                |
+| inverse.army      | available | $19.99    | —             | 106            | 16     | 7      | name.com         |
+| glitter.army      | available | $19.99    | —             | 96             | 18     | 7      | name.com         |
+| look.army         | available | $19.99    | —             | 80             | 33     | 4      | name.com         |
+| copy.army         | resell    | —         | —             | 90             | 33     | 4      | Porkbun LLC      |
+| beyond.army       | available | $19.99    | —             | 87             | 49     | 6      | name.com         |
+| granted.army      | available | $19.99    | —             | 80             | 11     | 7      | name.com         |
+| tailormade.army   | available | $19.99    | —             | 90             | 15     | 11     | name.com         |
+| year.army         | available | $19.99    | —             | 88             | 14     | 4      | name.com         |
+| saucer.army       | available | $19.99    | —             | 96             | 8      | 6      | name.com         |
+| bad.army          | available | $19.99    | —             | 142            | 45     | 3      | name.com         |
+| god.army          | resell    | —         | —             | 90             | 49     | 3      | GoDaddy.com, LLC |
+| watson.army       | premium   | $242      | $242          | 75             | 58     | 6      | namesilo         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .ARMY One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .ARMY One-Word Domains*. Version 2026-06-04. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
