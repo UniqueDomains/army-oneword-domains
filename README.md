@@ -1,10 +1,10 @@
-# Available .ARMY One-Word Domains (12,283)
+# Available .ARMY One-Word Domains (12,287)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C283%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C287%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,12 +12,12 @@
 Daily-updated public extract of available and resale .army one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **12,283 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **12,287 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,283 domains · **Median ask:** $26.18 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,287 domains · **Median ask:** $25.27 · **High-demand under $2,500:** 1
 
-**Last updated:** 2026-06-04  
-**Canonical page:** `https://unique.domains/domains/tld/army`  
+**Last updated:** 2026-08-06
+**Canonical page:** `https://unique.domains/domains/tld/army`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .ARMY one-word domain 
 
 ### Files
 
-- `army.csv` — public CSV extract (1,000 rows)
-- `army.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `army.csv`, public CSV extract (1,000 rows)
+- `army.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
-| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| icu.army          | available | $19.99    | —             | 84             | 30     | 3      | name.com         |
-| applaud.army      | available | $19.99    | —             | 100            | 9      | 7      | name.com         |
-| prominent.army    | available | $19.99    | —             | 91             | 16     | 9      | name.com         |
-| lapse.army        | available | $19.99    | —             | 88             | 7      | 5      | name.com         |
-| alkaline.army     | available | $19.99    | $50.99        | 88             | 11     | 8      | name.com         |
-| searchengine.army | available | $19.99    | —             | 92             | 12     | 13     | name.com         |
-| jewelry.army      | available | $19.99    | —             | 97             | 28     | 7      | name.com         |
-| AOL.army          | premium   | —         | —             | 86             | 17     | 3      | —                |
-| inverse.army      | available | $19.99    | —             | 106            | 16     | 7      | name.com         |
-| glitter.army      | available | $19.99    | —             | 96             | 18     | 7      | name.com         |
-| look.army         | available | $19.99    | —             | 80             | 33     | 4      | name.com         |
-| copy.army         | resell    | —         | —             | 90             | 33     | 4      | Porkbun LLC      |
-| beyond.army       | available | $19.99    | —             | 87             | 49     | 6      | name.com         |
-| granted.army      | available | $19.99    | —             | 80             | 11     | 7      | name.com         |
-| tailormade.army   | available | $19.99    | —             | 90             | 15     | 11     | name.com         |
-| year.army         | available | $19.99    | —             | 88             | 14     | 4      | name.com         |
-| saucer.army       | available | $19.99    | —             | 96             | 8      | 6      | name.com         |
-| bad.army          | available | $19.99    | —             | 142            | 45     | 3      | name.com         |
-| god.army          | resell    | —         | —             | 90             | 49     | 3      | GoDaddy.com, LLC |
-| watson.army       | premium   | $242      | $242          | 75             | 58     | 6      | namesilo         |
+| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
+| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| act.army        | available | $19.99    | —             | high           | low    | 3      | name.com         |
+| god.army        | resell    | —         | —             | high           | medium | 3      | GoDaddy.com, LLC |
+| asia.army       | premium   | $242      | $242          | high           | low    | 4      | namesilo         |
+| ain.army        | available | $17.48    | $48.98        | low            | low    | 3      | namecheap        |
+| copy.army       | resell    | —         | —             | high           | low    | 4      | Porkbun LLC      |
+| best.army       | premium   | $500      | —             | high           | medium | 4      | name.com         |
+| are.army        | available | $19.99    | —             | high           | low    | 3      | name.com         |
+| revolution.army | resell    | —         | —             | medium         | low    | 10     | InterNetX GmbH   |
+| live.army       | premium   | $82.50    | $82.50        | high           | medium | 4      | name.com         |
+| bad.army        | available | $19.99    | —             | high           | medium | 3      | name.com         |
+| sexy.army       | premium   | $82.50    | —             | high           | low    | 4      | name.com         |
+| ego.army        | available | $19.99    | —             | medium         | low    | 3      | name.com         |
+| cross.army      | premium   | $260      | $260          | high           | low    | 5      | namecheap        |
+| icu.army        | available | $19.99    | —             | high           | low    | 3      | name.com         |
+| stark.army      | premium   | $118.80   | $118.80       | high           | medium | 5      | namesilo         |
+| lvi.army        | available | $17.48    | $48.98        | low            | low    | 3      | namecheap        |
+| career.army     | premium   | $854      | $854          | high           | low    | 6      | namesilo         |
+| mop.army        | available | $19.99    | —             | high           | low    | 3      | name.com         |
+| marine.army     | premium   | $118.80   | $118.80       | high           | low    | 6      | namesilo         |
+| NWO.army        | available | $19.99    | —             | medium         | low    | 3      | name.com         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 12,283 live domains                        |
+| 1,000-row public sample | 12,287 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 0 high-demand names under $2,500           |
+| Basic exported fields   | 1 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-These domains are all in the .army extension, which gives the set a clear thematic constraint and a narrower buyer pool than mainstream TLDs. The names range from dictionary words and descriptive terms to more unusual combinations, such as icu.army, jewelry.army, and searchengine.army. That means fit matters more here than raw word quality alone. When comparing these domains, focus on whether the word makes sense with .army, whether the phrase is easy to interpret aloud, and whether the asking price is justified. Extra care is warranted for names that resemble well-known brands or acronyms, such as AOL.army.
+This list contains one-word .army domain names spanning everyday, playful, and modern-sounding words. Most are available outright rather than premium or resale, and pricing sits low relative to typical domain markets, making the set accessible for quick evaluation. Demand signals are concentrated at the low end, with a small number of domains showing stronger interest scores.
 
-- All names in this selection use the .army extension
-- Median ask across the set is 26.54
-- Best fits usually read cleanly with .army
-- Avoid names with obvious brand or acronym risk
+- 12,287 one-word .army domains, 506 TLD variants tracked
+- Median ask $25.27; 11,129 domains priced under $500
+- 12,045 available, 215 premium, 27 resale listings
+- 9,452 skew modern in tone; 8,003 rated easy to spell
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .ARMY One-Word Domains*. Version 2026-06-04. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .ARMY One-Word Domains*. Version 2026-08-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
