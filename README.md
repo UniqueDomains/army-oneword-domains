@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .army one-word domains from
 
 **Public extract:** 1,000 rows · **Live catalog:** 17,193 domains · **Median ask:** $22.74 · **High-demand under $2,500:** 2
 
-**Last updated:** 2026-08-19
+**Last updated:** 2026-08-20
 **Canonical page:** `https://unique.domains/domains/tld/army`
 **Best for:** founders, investors, studios
 
@@ -64,6 +64,13 @@ print(df.head())
 
 | domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
 | --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| out.army        | available | $19.99    | —             | high           | low    | 3      | name.com         |
+| bad.army        | available | $19.99    | —             | high           | medium | 3      | name.com         |
+| content.army    | available | $19.99    | —             | high           | low    | 7      | name.com         |
+| off.army        | available | $19.99    | —             | high           | low    | 3      | name.com         |
+| period.army     | available | $19.99    | —             | high           | low    | 6      | name.com         |
+| bang.army       | available | $19.99    | —             | high           | low    | 4      | name.com         |
+| soft.army       | available | $19.99    | $50.99        | high           | low    | 4      | name.com         |
 | act.army        | available | $19.99    | —             | high           | low    | 3      | name.com         |
 | god.army        | resell    | —         | —             | high           | medium | 3      | GoDaddy.com, LLC |
 | asia.army       | premium   | $242      | $242          | high           | low    | 4      | namesilo         |
@@ -73,17 +80,10 @@ print(df.head())
 | are.army        | available | $19.99    | —             | high           | low    | 3      | name.com         |
 | revolution.army | resell    | —         | —             | medium         | low    | 10     | InterNetX GmbH   |
 | live.army       | premium   | $82.50    | $82.50        | high           | medium | 4      | name.com         |
-| bad.army        | available | $19.99    | —             | high           | medium | 3      | name.com         |
 | sexy.army       | premium   | $82.50    | —             | high           | low    | 4      | name.com         |
 | ego.army        | available | $19.99    | —             | medium         | low    | 3      | name.com         |
 | cross.army      | premium   | $260      | $260          | high           | low    | 5      | namecheap        |
 | icu.army        | available | $19.99    | —             | high           | low    | 3      | name.com         |
-| stark.army      | premium   | $118.80   | $118.80       | high           | medium | 5      | namesilo         |
-| lvi.army        | available | $17.48    | $48.98        | low            | low    | 3      | namecheap        |
-| career.army     | premium   | $854      | $854          | high           | low    | 6      | namesilo         |
-| mop.army        | available | $19.99    | —             | high           | low    | 3      | name.com         |
-| marine.army     | premium   | $118.80   | $118.80       | high           | low    | 6      | namesilo         |
-| NWO.army        | available | $19.99    | —             | medium         | low    | 3      | name.com         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .ARMY One-Word Domains*. Version 2026-08-19. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .ARMY One-Word Domains*. Version 2026-08-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
