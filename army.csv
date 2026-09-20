@@ -8,9 +8,9 @@ e2c9dc5b-80e2-467f-b1a2-9defe1713750,act.army,available,19.99,,high,low,3,name.c
 73c783e0-f5c9-412b-8d45-f9350161ff6d,checkover.army,available,19.99,,high,low,10,name.com,,,
 7ed79c9b-560b-4cb7-994a-265a081b4ad5,corrupt.army,available,19.99,50.99,high,low,7,name.com,,,
 b6343ad4-84c6-4c31-951e-5d1b24a0adf1,discrepant.army,available,17.48,48.98,low,low,10,namecheap,,,07/08/2026 12:21
-ab8b83d9-b6e4-4120-9aaa-18639dec67ac,Sony.army,available,,,high,low,4,,,,
+ab8b83d9-b6e4-4120-9aaa-18639dec67ac,sony.army,available,,,high,low,4,,,,
 8beebb5a-b81d-43c9-ae39-bd0e9fa16a07,someone.army,available,19.99,,high,low,7,name.com,,,
-3d521ad3-61de-4595-92b1-d37ff44d74d9,course.army,available,19.99,,high,low,6,name.com,,,
+3d521ad3-61de-4595-92b1-d37ff44d74d9,course.army,available,17.48,48.98,medium,low,6,namecheap,,,20/09/2026 02:53
 b512628d-b6a6-43e6-88de-a80da4da8a21,planning.army,available,19.99,,high,low,8,name.com,,,
 d2d4c5c6-6e2f-42dd-af07-3af7e2342414,donut.army,available,19.99,,high,low,5,name.com,,,
 1b4e5d60-9e26-4609-ac6a-dd6a353b8d62,barbecued.army,available,17.48,48.98,low,low,9,namecheap,,,08/08/2026 16:25
@@ -48,14 +48,14 @@ a544b2e2-b8ba-417c-9a1f-c3fe65eb4bb3,abkhas.army,available,17.48,48.98,low,low,6
 e9e83398-cfed-45c4-bbd9-920173111333,excursion.army,available,19.99,,high,low,9,name.com,,,
 7e27ae98-23c0-4973-8e3a-67fc61756d61,receipts.army,available,19.99,,medium,low,8,name.com,,,
 ff5114f8-1a7f-4b68-9475-07cd20864dd2,justkidding.army,available,19.99,,high,low,12,name.com,,,
-4e3803ef-86ff-4bf5-a547-af4648a5bed4,PuertoRico.army,available,,,low,low,11,,,,
+4e3803ef-86ff-4bf5-a547-af4648a5bed4,puertorico.army,available,,,low,low,11,,,,
 59d5d033-d57f-4d2a-81a7-dc1a4c4d894b,ambulatory.army,available,17.48,48.98,low,low,10,namecheap,,,
 fd5edcba-a1c1-4277-a466-65fc477426cb,barrier.army,available,19.99,,medium,low,7,name.com,,,
 704408fe-99c6-4a3a-ac46-fdf3a8a79329,mothahfuggah.army,available,19.99,,medium,low,12,name.com,,,
 d2ee4bd4-34c4-4f06-8ad4-ce3ae017edb9,relevance.army,available,19.99,,high,low,9,name.com,,,
 ba8d2356-606d-4c7b-b06c-9d323726af95,sip.army,available,19.99,,medium,low,3,name.com,,,
 104fd151-2601-43ca-8d42-cc6f0e8433c5,speculation.army,available,19.99,,low,low,11,name.com,,,
-3900b1d1-7661-4be3-90ae-7ce3552f62f5,schoolbook.army,available,17.48,48.98,low,low,11,namecheap,,,14/09/2026 19:18
+3900b1d1-7661-4be3-90ae-7ce3552f62f5,schoolbook.army,available,18.99,39.99,low,low,11,namesilo,,,19/09/2026 07:03
 53994cf4-0374-4899-8ca7-6802e796eee5,jail.army,available,19.99,,high,low,4,name.com,,,
 58ebad8a-a6f2-48a8-a7a9-b287cfdedbbc,steam.army,available,19.99,,medium,medium,5,name.com,,,
 048bb553-86d1-4f64-9022-2d58ace5b02f,otherwise.army,available,19.99,,high,low,9,name.com,,,
@@ -63,7 +63,7 @@ ba8d2356-606d-4c7b-b06c-9d323726af95,sip.army,available,19.99,,medium,low,3,name
 ce818ef4-f008-484c-a339-7fedf4fd54ad,backward.army,available,19.99,,high,low,8,name.com,,,
 8a6de1a9-666f-4b06-8031-01d5ffa89dda,dental.army,available,19.99,50.99,high,low,6,name.com,,,
 cee64e63-57e0-4b75-84c1-875b4b546448,taiwan.army,available,,,medium,low,6,,,,
-ca227ed9-bd3c-4247-97a4-14dcf072efc1,RedSquare.army,available,19.99,,medium,low,10,name.com,,,
+ca227ed9-bd3c-4247-97a4-14dcf072efc1,redsquare.army,available,19.99,,medium,low,10,name.com,,,
 1f5c2b71-0d2e-4e71-bad6-3d2019ce3d49,testimony.army,available,19.99,,medium,low,9,name.com,,,
 874218b0-777c-40f3-8597-d800f5c149af,orbicular.army,available,17.48,48.98,low,low,9,namecheap,,,08/08/2026 10:11
 3f1ef604-9b10-41b8-b829-273914c91695,pair.army,available,19.99,,medium,low,4,name.com,,,
@@ -125,7 +125,7 @@ daa35094-bbf8-4de7-a70e-4e5f4b7b3bab,ternary.army,available,17.48,48.98,low,low,
 a88d54c9-eec6-41b5-9a86-41ca14ff7259,sitting.army,available,19.99,,high,low,7,name.com,,,
 0dc98f95-219b-49f9-a54a-1ba8804ca138,marvelous.army,available,19.99,,high,low,9,name.com,,,
 902b8ec5-42c1-4acf-8770-5e79277c9ba2,solarsystem.army,available,19.99,,medium,low,12,name.com,,,
-061adad9-84aa-4f3c-b0ea-d9e3ab6c56db,TheBahamas.army,available,,,low,low,11,,,,
+061adad9-84aa-4f3c-b0ea-d9e3ab6c56db,thebahamas.army,available,,,low,low,11,,,,
 350dc84c-ff72-4527-9417-ce19189b9d9d,examine.army,available,19.99,,high,low,7,name.com,,,
 ba561158-9a86-4d4f-a24b-1effbbef2f7b,altissimo.army,available,17.48,48.98,low,low,9,namecheap,,,
 4124171f-7929-44ce-8130-6ceec81d991a,supra.army,available,17.48,48.98,medium,low,5,namecheap,,,
@@ -140,7 +140,7 @@ be4bf830-ac09-4d83-8418-6280c0e30e95,keister.army,available,17.48,48.98,low,low,
 f8320a12-d67b-4912-9874-86f35b7e6329,incredible.army,available,19.99,,high,low,10,name.com,,,
 99e6a3a2-3d39-4ee1-b9b4-b20cffae9545,manage.army,available,19.99,,high,low,6,name.com,,,
 eb9b99ae-d3f3-4813-98d4-78c34f858280,touring.army,available,19.99,,high,low,7,name.com,,,
-a2098156-4a40-4e0b-a5db-e69410b2c794,Idonotknowit.army,available,19.99,,medium,low,16,name.com,,,
+a2098156-4a40-4e0b-a5db-e69410b2c794,idonotknowit.army,available,19.99,,medium,low,16,name.com,,,
 24375606-9931-456b-a398-978a286b0406,annoyance.army,available,17.48,48.98,low,low,9,namecheap,,,
 9b7be72e-a5dd-4ab8-94c0-bfa3052e5c8c,hardatwork.army,available,19.99,,high,low,12,name.com,,,
 7dc0589d-1ff3-46bf-9b4a-030fd3de4370,contest.army,available,19.99,,high,low,7,name.com,,,
@@ -173,7 +173,7 @@ d3999852-5fce-44bb-be20-a202b92401b2,burning.army,available,19.99,,high,low,7,na
 6a8984b3-0fd7-46a6-b204-efe9eb0fdd16,label.army,available,19.99,,high,low,5,name.com,,,
 150dc896-4558-43d5-984c-c9af7cb6a64a,valued.army,available,19.99,,high,low,6,name.com,,,
 b0d6b3ef-7ca0-4cf5-9d17-62f5b0c07975,hover.army,available,19.99,,medium,low,5,name.com,,,
-6798cf07-0d74-4f95-88c8-a653dd834225,Goodwin.army,available,19.99,,medium,low,7,name.com,,,
+6798cf07-0d74-4f95-88c8-a653dd834225,goodwin.army,available,19.99,,medium,low,7,name.com,,,
 571cd6f4-7e85-429b-9330-a6d92d89c77a,supposed.army,available,19.99,50.99,high,low,8,name.com,,,
 e31db371-acf1-46ec-a4ec-06c4fad2ce4e,debase.army,available,17.48,48.98,low,low,6,namecheap,,,
 a996ba16-ea56-4cf9-8c22-6538763d8559,champion.army,available,19.99,50.99,high,low,8,name.com,,,
@@ -201,7 +201,7 @@ bd46d2c4-e5c1-4024-878e-f4b37553e572,revolution.army,resell,,,medium,low,10,Inte
 04f8287a-8b22-47d1-ac0c-8ca5086a7762,drivehome.army,available,19.99,,high,low,10,name.com,,,
 027ab189-24f6-44ff-bd30-6d6a6ad2425b,cutshort.army,available,19.99,,medium,low,9,name.com,,,
 f507c964-22df-4950-b65b-96cb3a7f8db7,per.army,available,19.99,,high,low,3,name.com,,,
-6f8c79ae-e945-484f-9b5d-2154c9ef8193,Frenchmustard.army,available,19.99,,high,low,14,name.com,,,
+6f8c79ae-e945-484f-9b5d-2154c9ef8193,frenchmustard.army,available,19.99,,high,low,14,name.com,,,
 f4e3d704-b885-472a-b437-9e1758b91f5b,oldlady.army,available,19.99,,medium,low,8,name.com,,,
 faa9b272-b485-47f1-a6c0-8172c581f3e0,invitation.army,available,19.99,,high,low,10,name.com,,,
 3757fbd1-df4b-4df5-a938-82b6e9b6634a,putoutof.army,available,19.99,,low,low,10,name.com,,,
@@ -212,20 +212,20 @@ dbcfccff-a984-4202-ac33-900cbd9e98be,childlabor.army,available,19.99,,medium,low
 337e6b2a-70ac-417e-b4b4-c2d9af40268e,goodasnew.army,available,19.99,,high,low,11,name.com,,,
 d167485b-97d1-4e18-805b-c3792f32d794,favourable.army,available,19.99,,high,low,10,name.com,,,
 d9fced95-9be2-417e-8fc3-b1f49a47dfee,awkward.army,available,19.99,,high,low,7,name.com,,,
-54ceba98-6126-4166-88af-842235cdb2f3,Frenchroast.army,available,19.99,,medium,low,12,name.com,,,
+54ceba98-6126-4166-88af-842235cdb2f3,frenchroast.army,available,19.99,,medium,low,12,name.com,,,
 9c9c41a8-ee76-41cf-a8b2-f54d6c2ae678,bringin.army,available,19.99,,high,low,8,name.com,,,
 54c4afc7-ca94-45b7-abed-b0a02f6c0dee,supplier.army,available,19.99,,high,low,8,name.com,,,
 378eca71-aa05-4b4b-a0ce-2b52c2c150b5,border.army,available,19.99,,medium,low,6,name.com,,,
 7971b86b-b04b-4c3b-b66a-a5da9ecd5552,cincinnati.army,premium,242,242,high,low,10,namesilo,,,
 72963dfc-0f9f-4128-9e46-f66c45995617,owing.army,available,19.99,,low,low,5,name.com,,,
 d8866bb2-80dd-4e1d-969d-ce8f0956409e,techno.army,available,19.99,,high,low,6,name.com,,,
-18dfa538-cbde-495b-97f3-bc60be689d2b,content.army,available,17.48,48.98,medium,medium,7,namecheap,,,08/09/2026 11:59
+18dfa538-cbde-495b-97f3-bc60be689d2b,content.army,available,18.99,39.99,medium,low,7,namesilo,,,19/09/2026 03:52
 8ea06e2b-5884-41cd-92cd-55331b2a6b24,really.army,available,19.99,,high,low,6,name.com,,,
 a56124c0-771c-4099-9672-325ba4dc078e,greenpepper.army,available,19.99,,high,low,12,name.com,,,
 7ffbc172-c005-4fef-8b11-629593d638e3,corrected.army,available,19.99,50.99,high,low,9,name.com,,,
 d6f1aaf6-8645-4db3-a1f1-6fe978922f9a,putitabout.army,available,19.99,,low,low,12,name.com,,,
 f3006b3e-841a-4716-8078-56f62edaaea0,principles.army,available,19.99,,low,low,10,name.com,,,
-2fbcb713-3dd9-41ea-9732-b6083d5d8bd6,boxer.army,available,17.48,48.98,medium,low,5,namecheap,,,16/09/2026 01:59
+2fbcb713-3dd9-41ea-9732-b6083d5d8bd6,boxer.army,available,18.99,39.99,medium,low,5,namesilo,,,19/09/2026 03:25
 4d5644ca-bfc8-4032-8d10-45c0ebb4a136,lviii.army,available,17.48,48.98,low,low,5,namecheap,,,
 b6362ff1-1007-4473-98f7-79d95210c5cc,vomiting.army,available,19.99,,medium,low,8,name.com,,,
 86972b23-b128-4ae1-ad40-a1bf66366579,augean.army,available,17.48,48.98,low,low,6,namecheap,,,07/08/2026 16:54
@@ -266,10 +266,10 @@ b536ae5f-af5f-42ac-8561-8e54acfd134d,assuming.army,available,17.48,48.98,low,low
 d77573ac-3714-4a2b-b724-5c2d3dabd2f6,antiknock.army,available,17.48,48.98,low,low,9,namecheap,,,
 29922929-c496-4d74-85eb-7b7bd7c01396,steer.army,available,19.99,,medium,low,5,name.com,,,
 902d69b7-2e7b-402a-bbde-6d39f4f9b5c0,fourteenth.army,available,17.48,48.98,low,low,10,namecheap,,,
-5bb153e5-9a46-4386-b3be-36d50f09a14a,FrenchQuarter.army,available,19.99,,medium,low,14,name.com,,,
+5bb153e5-9a46-4386-b3be-36d50f09a14a,frenchquarter.army,available,19.99,,medium,low,14,name.com,,,
 5adee7ee-ffb0-4be0-8c0d-0ebd163ce735,dismiss.army,available,19.99,,high,low,7,name.com,,,
 35162034-7f11-404a-b7a1-290c5a97d191,scheduled.army,available,19.99,,high,low,9,name.com,,,
-03c4f56e-24c8-4975-bbc8-a6f126397223,BBC.army,available,,,high,low,3,,,,
+03c4f56e-24c8-4975-bbc8-a6f126397223,bbc.army,available,,,high,low,3,,,,
 01435bdf-137c-4a14-a0b1-752e766280b1,boom.army,available,19.99,,high,medium,4,name.com,,,
 56ccb238-ca10-417b-b674-83b78cc31f11,basinal.army,available,17.48,48.98,low,low,7,namecheap,,,08/08/2026 22:32
 9de044ac-cb2f-423b-8ce1-12e70f3d162d,bitter.army,available,17.48,48.98,low,low,6,namecheap,,,
@@ -317,7 +317,7 @@ f937cf31-c3d4-4e23-b7d8-ecfb84966279,appealable.army,available,17.48,48.98,low,l
 d7d02aac-8f6e-4d39-a4c1-99d54ec1a123,flooded.army,available,17.48,48.98,low,low,7,namecheap,,,08/08/2026 00:23
 7e07821e-a187-4a4d-a4f7-bb60248bc9b6,occurrence.army,available,19.99,,medium,low,10,name.com,,,
 e35ffd8e-7eb1-4722-8cac-f0e5721c0945,writedown.army,available,19.99,,medium,low,10,name.com,,,
-ed37ce84-58a7-47eb-804c-abacb939d27c,effort.army,available,17.48,48.98,medium,low,6,namecheap,,,15/09/2026 00:59
+ed37ce84-58a7-47eb-804c-abacb939d27c,effort.army,available,18.99,39.99,medium,low,6,namesilo,,,19/09/2026 09:55
 11766b42-99b7-4d25-b6c2-6322554e75a8,bleak.army,available,17.48,48.98,low,low,5,namecheap,,,08/08/2026 21:02
 8b092e34-2e21-4612-9a9c-4fec7ea2e0da,allright.army,available,19.99,50.99,medium,low,9,name.com,,,
 35fcc68d-9045-4ed0-9846-f58760e6c1a0,chairperson.army,available,19.99,,medium,low,11,name.com,,,
@@ -375,7 +375,7 @@ dfa72086-337a-476e-9aac-9803506d2fdd,gaspowered.army,available,19.99,,medium,low
 6ed97d03-199e-4c63-80cc-97f7dbf1dd7c,evenout.army,available,19.99,,high,low,8,name.com,,,
 36dd7902-e2c8-4165-9741-c0fe66356876,rep.army,available,19.99,,medium,low,3,name.com,,,
 864f4b45-ccbb-4f15-9852-1125d9749115,preventive.army,available,19.99,50.99,high,low,10,name.com,,,
-b263d216-26b3-4fef-82f4-444c59f162a7,DakotaCity.army,available,19.99,,medium,low,11,name.com,,,
+b263d216-26b3-4fef-82f4-444c59f162a7,dakotacity.army,available,19.99,,medium,low,11,name.com,,,
 7b0fde63-3614-4dbe-bd56-f6d171f08f99,lorditover.army,available,19.99,,medium,low,12,name.com,,,
 19a8d154-e75e-4b33-81ef-da99a6f96b09,restaurant.army,available,19.99,,high,low,10,name.com,,,
 d14904c2-dd11-4931-be80-acf03583280a,adorned.army,available,17.48,48.98,low,low,7,namecheap,,,
@@ -432,7 +432,7 @@ d40efdf4-a714-4756-bf02-0833e6faa951,wellcovered.army,available,19.99,,high,low,
 b8162d4f-9f6d-4c1b-ab91-1cf97c585e06,jimmy.army,available,19.99,,high,low,5,name.com,,,
 21bee7b3-98f3-4f3d-8bfd-44adcd45388b,portland.army,premium,242,242,medium,low,8,namesilo,,,
 664b8c94-2ba5-475f-a16a-c5f2041e7e68,assistant.army,available,,,high,high,9,,,,
-eca5a2a5-9620-48f3-b363-1edf7b6b9be1,finding.army,available,17.48,48.98,medium,low,7,namecheap,,,12/09/2026 04:02
+eca5a2a5-9620-48f3-b363-1edf7b6b9be1,finding.army,available,18.99,39.99,medium,low,7,namesilo,,,19/09/2026 14:57
 d9ac81e5-6f39-47e9-99f0-4789b4f56aae,fourteen.army,available,19.99,50.99,high,low,8,name.com,,,
 a326d538-5117-4a09-b1ff-7535a6322d82,todate.army,available,19.99,,medium,low,7,name.com,,,
 780fc51a-e910-4973-8505-e2313d5c37d4,toying.army,available,19.99,,medium,low,6,name.com,,,
@@ -450,7 +450,7 @@ f0e80af9-fe75-43e1-8e7b-14b539924e89,clicking.army,available,19.99,,medium,low,8
 74bf1bf9-df31-4e93-b5d3-bb198811f99d,headtotoe.army,available,19.99,,medium,low,11,name.com,,,
 e6b4b33c-344b-4ea2-a2f0-ebbba65ad537,bucketlist.army,available,19.99,,high,low,11,name.com,,,
 da97d397-8b8d-400e-9b04-f508eedd1ff6,acidulent.army,available,17.48,48.98,low,low,9,namecheap,,,
-45ab1911-b434-4e8b-b90d-c69b7848afd1,broad.army,available,17.48,48.98,medium,low,5,namecheap,,,14/09/2026 03:17
+45ab1911-b434-4e8b-b90d-c69b7848afd1,broad.army,available,18.99,39.99,medium,low,5,namesilo,,,19/09/2026 06:03
 8edbd18d-b76f-4824-bbfd-945b8200af12,advanced.army,available,19.99,50.99,high,low,8,name.com,,,
 3649fc6c-eedb-4284-a1e9-0abfc2d1b161,exalt.army,available,17.48,48.98,medium,low,5,namecheap,,,
 0178bfa1-daf8-4396-a8f7-0a0903e9628f,satisfactory.army,available,19.99,,high,low,12,name.com,,,
@@ -483,7 +483,7 @@ f1593dd3-47ff-42b0-b82d-9e9121e94ea7,beggarly.army,available,17.48,48.98,low,low
 8e8f3a18-0431-48ce-86f7-5a5190929598,smooth.army,available,19.99,,high,low,6,name.com,,,
 0b638d96-6b05-4c61-9462-f9da7c341786,abducent.army,available,17.48,48.98,low,low,8,namecheap,,,
 57c6dd5c-64d2-4a17-90b2-5c7d0216a160,amygdaline.army,available,17.48,48.98,low,low,10,namecheap,,,
-60436f42-a51b-4412-a11b-9dfaeafb75dd,Iwanttoknow.army,available,19.99,,medium,low,14,name.com,,,
+60436f42-a51b-4412-a11b-9dfaeafb75dd,iwanttoknow.army,available,19.99,,medium,low,14,name.com,,,
 2e44d7ef-49d4-49ee-a000-00dbb59c1611,cross.army,premium,260,260,high,low,5,namecheap,,,
 3dc342a9-71c7-48c4-8123-c1403fa41686,amorphous.army,available,17.48,48.98,low,low,9,namecheap,,,
 09f8336f-9d88-4722-b931-f9c6b0e0624f,giveback.army,available,19.99,,high,low,9,name.com,,,
@@ -527,8 +527,8 @@ e0430407-749a-4d2c-be27-0827af7db807,unique.army,available,19.99,,high,medium,6,
 f862a915-f023-4713-9ae2-0c8e8ce7cc69,daggum.army,available,19.99,,high,low,6,name.com,,,
 774c75d5-a24c-4194-830b-762a132c45ae,qualitative.army,available,19.99,,high,low,11,name.com,,,
 f5826fc1-af2c-4c64-85d9-6c63356f4e9a,steeltoeboot.army,available,19.99,,high,low,14,name.com,,,
-c3b8f6f8-082d-4eb1-b870-c966926e1519,Godonlyknows.army,available,19.99,,medium,low,14,name.com,,,
-a935f036-3777-4bf0-8845-93d2b37ba887,wall.army,available,19.99,,high,low,4,name.com,,,
+c3b8f6f8-082d-4eb1-b870-c966926e1519,godonlyknows.army,available,19.99,,medium,low,14,name.com,,,
+a935f036-3777-4bf0-8845-93d2b37ba887,wall.army,available,18.99,39.99,low,low,4,namesilo,,,19/09/2026 13:29
 857b3334-9201-433f-bf90-ff4c31bb7cf3,dorsum.army,available,17.48,48.98,low,low,6,namecheap,,,08/08/2026 05:12
 730146be-1d11-4648-bce1-5a87299e00d6,sea.army,available,19.99,,high,low,3,name.com,,,
 8c76ce77-168f-44f7-a3b2-5caf5c8a3c4f,policeofficer.army,available,19.99,,high,low,14,name.com,,,
@@ -548,7 +548,7 @@ ba8422a0-25ce-4256-b72c-cb9f25a32308,businesslunch.army,available,19.99,,high,lo
 af2fd4db-0cc5-4233-8018-74ecdd3d1495,beingas.army,available,19.99,,medium,low,8,name.com,,,
 b0b63048-3a49-4951-8d3b-25573256c56a,plaguy.army,available,17.48,48.98,low,low,6,namecheap,,,
 eaf12532-2d67-4a3e-a41e-1e3ceb8dad9e,ballroom.army,available,19.99,,high,low,8,name.com,,,
-6f48754b-b063-4b00-82e9-bdb181f1ee81,Englishmuffin.army,available,19.99,,high,low,14,name.com,,,
+6f48754b-b063-4b00-82e9-bdb181f1ee81,englishmuffin.army,available,19.99,,high,low,14,name.com,,,
 c24c2030-32df-402d-91b7-50da4ec80c09,similarly.army,available,19.99,,medium,low,9,name.com,,,
 3fafd2c0-a9c6-4ae0-809e-4443344075c4,holding.army,available,19.99,,high,low,7,name.com,,,
 fc06a0f3-a3cd-4c53-86ea-41455130a445,informing.army,available,19.99,,medium,low,9,name.com,,,
@@ -595,7 +595,7 @@ d9cff2af-b756-42df-8134-a8c30d030540,thirteen.army,available,19.99,50.99,high,lo
 02f8aac7-ffd9-4fa5-a9b6-ed7cf13ca979,prickly.army,available,17.48,48.98,low,low,7,namecheap,,,08/08/2026 17:34
 86f11fa6-403c-423e-acf1-83caefde49f6,mouth.army,available,17.48,48.98,medium,low,5,namecheap,,,08/09/2026 03:51
 35bec3fa-37fb-4d82-b4ab-9a77e135ee10,beon.army,available,19.99,,high,low,5,name.com,,,
-ff2c3f70-89af-48d4-a160-bc2fc26ee5fc,Rhiannon.army,available,19.99,,high,low,8,name.com,,,
+ff2c3f70-89af-48d4-a160-bc2fc26ee5fc,rhiannon.army,available,19.99,,high,low,8,name.com,,,
 058ec47c-8199-45c3-a431-ad52b8232e25,youknowwhat.army,available,19.99,,low,low,13,name.com,,,
 a75b4f3c-d22e-419e-a839-4a865487d065,whiskered.army,available,17.48,48.98,low,low,9,namecheap,,,08/08/2026 16:15
 aefb702c-5532-4499-b35a-eafe16b66e62,birthcertificate.army,available,19.99,,medium,low,17,name.com,,,
@@ -641,7 +641,7 @@ cff0867d-5383-4e47-9c9d-deb72ea6fe54,inregardsto.army,available,19.99,,medium,lo
 1d30c4c3-937b-4780-9ed0-562f4065afd7,modal.army,available,19.99,,high,low,5,name.com,,,
 7961ab15-1fdc-4b86-9c70-8c77f98e25b5,perfectly.army,available,19.99,,high,low,9,name.com,,,
 14547778-0de8-4522-b8ad-47cdd9fb0292,geometry.army,available,19.99,,medium,low,8,name.com,,,
-bfd27ee1-f340-49f5-9fdd-b4ed8143748a,out.army,available,19.99,,high,low,3,name.com,,,
+bfd27ee1-f340-49f5-9fdd-b4ed8143748a,out.army,available,18.99,39.99,medium,low,3,namesilo,,,19/09/2026 10:34
 f5bf989d-9fc7-4235-bd23-d93aaa2af41f,majority.army,available,19.99,,high,low,8,name.com,,,
 1cb87112-650b-4b39-96cb-3350568d6533,xliii.army,available,17.48,48.98,low,low,5,namecheap,,,
 7c80e2da-117f-48c5-a45c-0ef273062b85,dorightby.army,available,19.99,,high,low,11,name.com,,,
@@ -665,7 +665,7 @@ e7d9dc07-f49f-4f9e-a6e6-46b0d3045250,board.army,available,,,medium,low,5,,,,
 758adc09-9714-4c55-ba3e-966306ebb755,worried.army,available,19.99,50.99,high,low,7,name.com,,,
 941ffabd-d153-49f6-9e5a-9b7233684e52,waters.army,available,19.99,,medium,low,6,name.com,,,
 0818a11e-6a56-4dc8-8ec8-a51818f20d58,best.army,premium,500,,high,medium,4,name.com,,,
-4c50b67c-5e75-4cc0-8a49-50605163636b,broadcast.army,available,19.99,,high,low,9,name.com,,,
+4c50b67c-5e75-4cc0-8a49-50605163636b,broadcast.army,available,17.48,48.98,medium,low,9,namecheap,,,19/09/2026 05:03
 8160ae9a-dfbc-4d94-82fa-4b13fdb6c482,absolute.army,available,19.99,50.99,high,low,8,name.com,,,
 2e30d56f-3700-46df-ad15-4aba02fa45ab,heck.army,available,19.99,,medium,low,4,name.com,,,
 ddbe896f-e52f-4b44-b310-c900effe4e9b,favorable.army,available,19.99,,medium,low,9,name.com,,,
@@ -680,7 +680,6 @@ d6d50b0e-cf4b-41e6-ba16-7899c9456fcb,profession.army,available,19.99,,high,low,1
 3fd2bcdb-0a0d-484f-ab33-c92fb15cc4b6,prenuptial.army,available,19.99,,high,low,10,name.com,,,
 f086a99e-c08b-4b57-a84e-7571bd79db19,operahouse.army,available,19.99,,high,low,11,name.com,,,
 bb3d2cfc-ea68-42d1-961b-20a424c88151,despiteof.army,available,19.99,,medium,low,10,name.com,,,
-c6cf562a-0cf5-4651-b71c-e10202c656d4,harvard.army,available,,,high,low,7,,,,
 b8356127-d464-4331-b146-ddf81a7c9b95,branch.army,available,19.99,,medium,low,6,name.com,,,
 7d78cff9-6e16-4264-a60a-c1554d8aa3a0,flack.army,available,17.48,48.98,low,low,5,namecheap,,,
 e06d9e98-1bab-4459-8685-f7c3f092f508,problem.army,available,19.99,,high,low,7,name.com,,,
@@ -696,7 +695,7 @@ d2334c34-8413-4359-9c7e-d894a7121297,atrocious.army,available,19.99,,medium,low,
 56bd70d9-b1d9-4668-bf1c-0a0218b54ada,makefunof.army,available,19.99,,high,low,11,name.com,,,
 a3d98c7d-8102-4bad-8fd8-3b9191ef0317,redpanda.army,available,19.99,,high,low,9,name.com,,,
 5c1df403-6258-4a77-9bb8-e7ae08a5cd28,foundingfather.army,available,19.99,,high,low,15,name.com,,,
-6123de99-1ed6-444b-bdf2-307aacb6806d,NWO.army,available,19.99,,medium,low,3,name.com,,,
+6123de99-1ed6-444b-bdf2-307aacb6806d,nwo.army,available,19.99,,medium,low,3,name.com,,,
 02c31f03-a009-4ffe-9579-8b29207c90d2,eyetoeye.army,available,19.99,,medium,low,10,name.com,,,
 2fbabadd-7f13-4ee0-8e72-cec07251b891,alar.army,available,17.48,48.98,low,low,4,namecheap,,,
 73abda0a-2c70-471f-bebb-44ddf9c6e0ba,quantities.army,available,19.99,,low,low,10,name.com,,,
@@ -717,7 +716,7 @@ a192eae6-f440-4e44-a54f-285aeeef305e,lettersize.army,available,19.99,,medium,low
 c91f54b6-96d9-4659-a9af-8df7570e8f05,squat.army,available,19.99,,high,low,5,name.com,,,
 cc443c13-6e59-439f-ae95-6d19af9f4b0d,distribute.army,available,19.99,,medium,low,10,name.com,,,
 f9e1a632-cf6b-4d13-b4c2-c171e324d5ff,resolvable.army,available,19.99,,high,low,10,name.com,,,
-5cac4e14-5b6d-4e71-bb8d-2deede4dad0f,production.army,available,17.48,48.98,medium,low,10,namecheap,,,15/09/2026 04:24
+5cac4e14-5b6d-4e71-bb8d-2deede4dad0f,production.army,available,17.48,48.98,medium,low,10,namecheap,,,19/09/2026 18:56
 c720e3b0-7e40-4bcb-9256-4ba70c0ead3b,hunger.army,available,19.99,,high,low,6,name.com,,,
 289b4881-0fd1-4867-aea4-5730a640f70d,letterofintent.army,available,19.99,,high,low,16,name.com,,,
 8a7525fd-0022-44b1-8e90-59f36d8b41ea,fresh.army,available,19.99,,high,low,5,name.com,,,
@@ -755,7 +754,6 @@ f3196d29-b100-4574-913e-2784bbcf80bf,wacky.army,available,19.99,,high,low,5,name
 28c94ffe-7f6d-4476-a45d-0f4cb432a1c4,webbrowser.army,available,19.99,,high,low,11,name.com,,,
 bc604ffd-ca1d-4773-ac1d-5c1feb054574,gothere.army,available,19.99,,medium,low,8,name.com,,,
 1bb856d0-7288-4a6c-9004-9398accdd96b,placating.army,available,17.48,48.98,low,low,9,namecheap,,,06/08/2026 06:02
-326f5615-c718-4db8-8785-d925616bec3d,woo.army,available,,,medium,low,3,,,,
 beef68e4-c1ec-469f-bc7d-83102f38d288,archeozoic.army,available,17.48,48.98,low,low,10,namecheap,,,06/08/2026 15:16
 e005bbe9-5927-4415-aa78-6783dbd9427b,trounce.army,available,17.48,48.98,low,low,7,namecheap,,,09/08/2026 05:27
 740693a0-682b-4a4c-9d0d-22bca4a5d107,stubborn.army,available,19.99,,high,low,8,name.com,,,
@@ -795,7 +793,7 @@ f6b5d75c-f81f-45dd-9223-2ed07da4a39f,xmas.army,available,19.99,,high,low,4,name.
 0e2ee1f3-1074-4257-93f4-15d70681c2df,say.army,available,19.99,,medium,low,3,name.com,,,
 f62b2ce9-ec1a-4230-8d72-90bbd9a4928e,esthetical.army,available,19.99,50.99,high,low,10,name.com,,,
 15bf4083-302f-4a89-8f8f-9ccd15f68c37,judges.army,available,19.99,,medium,low,6,name.com,,,
-6b911bcf-402d-4c89-9fe3-07eb86b0df55,domestic.army,available,19.99,50.99,high,low,8,name.com,,,
+6b911bcf-402d-4c89-9fe3-07eb86b0df55,domestic.army,available,18.99,39.99,medium,low,8,namesilo,,,19/09/2026 12:54
 f2bf7469-4bf1-4f92-9f1e-d723e9ae4284,thermal.army,available,19.99,,medium,low,7,name.com,,,
 68339d37-8572-46a2-b241-aac652b85d73,banned.army,available,17.48,48.98,low,low,6,namecheap,,,08/08/2026 13:44
 202c5d37-d3e6-41e9-8267-d61e668cbf66,visiting.army,available,19.99,,medium,low,8,name.com,,,
@@ -806,10 +804,10 @@ edfd2221-1d91-4776-a203-e0abe7b53dd5,doubter.army,available,17.48,48.98,low,low,
 f5568ef6-955b-4d75-af07-2e5b2abd8baa,heavyhearted.army,available,19.99,,medium,low,13,name.com,,,
 24760d7f-f895-4041-91e6-cd6649909a09,giveway.army,available,19.99,,medium,low,8,name.com,,,
 b1e0f2e5-7f8a-43ad-a257-98eabba07d3d,auriferous.army,available,19.99,,medium,low,10,name.com,,,
-73c24492-5379-411b-9dde-6e4232ee2ace,WestBranch.army,available,19.99,,low,low,11,name.com,,,
+73c24492-5379-411b-9dde-6e4232ee2ace,westbranch.army,available,19.99,,low,low,11,name.com,,,
 470e0342-f73b-41b2-9d5e-fc49f231cd3b,appointed.army,available,17.48,48.98,low,low,9,namecheap,,,06/08/2026 07:21
 113ac928-ec02-4a9d-af72-e6311ce6c2fc,sailorboy.army,available,19.99,,low,low,10,name.com,,,
-1378b87f-f6dc-4a46-b8ae-3a77fb235e13,Frenchvanilla.army,available,19.99,,medium,low,14,name.com,,,
+1378b87f-f6dc-4a46-b8ae-3a77fb235e13,frenchvanilla.army,available,19.99,,medium,low,14,name.com,,,
 f55e12ec-d859-4078-94e1-6b6e9876d514,animistic.army,available,17.48,48.98,low,low,9,namecheap,,,
 0c90978d-99e8-47c1-8196-56f74bd8c4f8,speedofsound.army,available,19.99,,low,low,14,name.com,,,
 f3285196-5c21-4ac8-a67f-f33ca799b602,creation.army,available,19.99,,high,low,8,name.com,,,
@@ -873,20 +871,19 @@ e201fdb2-1fba-4b64-8b81-fd6666c34fce,optionally.army,available,19.99,,medium,low
 faa2b19a-9f2a-4607-b27f-d8db1e6cb72e,dedicated.army,available,19.99,50.99,high,low,9,name.com,,,
 5069a308-163f-48c9-9f90-3e7b18af6124,bryan.army,available,19.99,,medium,low,5,name.com,,,
 a3fa4409-7cb0-42f1-9b58-4a3f76468daa,selfworth.army,available,19.99,,high,low,10,name.com,,,
-bce1f1ff-6929-46cd-9ea8-9d7ca815791f,security.army,available,19.99,,high,medium,8,name.com,,,
 7253db16-ca5d-4222-b563-2a54fba1ec15,whilst.army,available,19.99,,medium,low,6,name.com,,,
 f58f346c-2d43-44a8-88b1-0858ec7aed61,goover.army,available,18.99,39.99,low,low,7,namesilo,,,16/09/2026 10:25
 790c2605-f54b-4363-8ea5-cb62d95ef0d4,complaint.army,available,19.99,,medium,low,9,name.com,,,
 21675b4d-40ef-49d7-a97b-48e816079b09,nyse.army,available,19.99,,medium,low,4,name.com,,,
 f6b1fb20-99ca-405e-8ac4-90b30c06e850,available.army,available,19.99,,high,low,9,name.com,,,
-8cad9c6d-1031-4329-87ae-c4366f191597,NewTaipei.army,available,19.99,,low,low,10,name.com,,,
+8cad9c6d-1031-4329-87ae-c4366f191597,newtaipei.army,available,19.99,,low,low,10,name.com,,,
 4af5885f-46ff-4a06-8ef5-827020b47f67,alltheway.army,available,19.99,,medium,low,11,name.com,,,
 a2caa06d-63a7-4f3d-9bef-916278ae650e,improvize.army,available,17.48,48.98,low,low,9,namecheap,,,
 68c37890-8e1a-42d5-9aca-0a5cd58d3788,trainup.army,available,19.99,,medium,low,8,name.com,,,
 0d6e56e6-7a40-4532-993b-e3e39ae049b9,reasonably.army,available,19.99,,medium,low,10,name.com,,,
 a21906fa-1ec3-4e78-9e98-9e3d95dca139,wandering.army,available,19.99,,high,low,9,name.com,,,
 560bd45a-0b97-4634-96b2-be6561fa38a8,batwing.army,available,17.48,48.98,low,low,7,namecheap,,,09/08/2026 01:49
-6c83a308-41b7-4902-9297-626f8f74d4c3,Yukongold.army,available,19.99,,medium,low,10,name.com,,,
+6c83a308-41b7-4902-9297-626f8f74d4c3,yukongold.army,available,19.99,,medium,low,10,name.com,,,
 6ab370dd-f528-4460-9e4e-73560bfcc8d9,stick.army,available,19.99,,high,low,5,name.com,,,
 3e4626c8-f977-4203-b451-2fc7f37f9dc7,ballistic.army,available,17.48,48.98,low,low,9,namecheap,,,08/08/2026 10:31
 ce7c1d56-02ad-4619-9266-95aa728dc015,entertain.army,available,19.99,,high,low,9,name.com,,,
@@ -900,7 +897,7 @@ e3178611-bc21-49ad-a0a0-97397b4723b9,ankledeep.army,available,17.48,48.98,low,lo
 bb1d3ba8-e79c-4d61-acd3-b1bfd3ac80ad,surfer.army,available,19.99,,high,low,6,name.com,,,
 6187ef83-cc8c-4df3-aef5-a23e9aad9e06,cutprice.army,available,17.48,48.98,low,low,9,namecheap,,,08/08/2026 19:26
 972576fc-a29d-48e7-a367-3627b33bfd21,incometax.army,available,19.99,,medium,low,10,name.com,,,
-119d3039-2772-41b7-9eb3-7396b67a672e,advised.army,available,17.48,48.98,low,low,7,namecheap,,,14/09/2026 02:01
+119d3039-2772-41b7-9eb3-7396b67a672e,advised.army,available,18.99,39.99,low,low,7,namesilo,,,19/09/2026 08:43
 d7a5d476-caac-4733-b534-cd02e72070f9,divers.army,available,19.99,,high,low,6,name.com,,,
 53e38754-eb32-49c9-a358-8c3d5aa4299d,moveover.army,available,19.99,,medium,low,9,name.com,,,
 f976b437-03f6-4918-a0d2-7584dab8c497,distinguished.army,available,19.99,,medium,low,13,name.com,,,
@@ -938,7 +935,7 @@ ed9ca486-d3d3-4ca0-a90a-00b76a51b883,icu.army,available,19.99,,high,low,3,name.c
 965471bc-b9ff-43ed-9baa-21876bacf1a4,abovementioned.army,available,19.99,,medium,low,15,name.com,,,
 2b921b24-f506-42d5-a263-4a0bfc7116f4,prominent.army,available,19.99,,high,low,9,name.com,,,
 a1c881e5-ceb4-476b-a672-61b94a2795d4,ego.army,available,19.99,,medium,low,3,name.com,,,
-0b286cc5-7714-4ab0-8bc2-334ab7d5aae7,client.army,available,17.48,48.98,medium,low,6,namecheap,,,13/09/2026 03:27
+0b286cc5-7714-4ab0-8bc2-334ab7d5aae7,client.army,available,18.99,39.99,low,low,6,namesilo,,,19/09/2026 04:09
 8eeaa7e9-409c-4e32-89ab-6ba52394e757,delivery.army,available,19.99,,high,low,8,name.com,,,
 87f04448-ad72-4afc-8499-dca682557624,obscene.army,available,17.48,48.98,low,low,7,namecheap,,,
 ab97f140-af79-4e2a-a8f1-6d6e912f0548,lapse.army,available,19.99,,high,low,5,name.com,,,
@@ -948,11 +945,10 @@ b84b42b7-ab1d-4a0a-bbc4-429c3ff2c1d2,motherfugga.army,available,19.99,,medium,lo
 3fd1e3d3-b1cc-4da1-a7d4-364a20070102,searchengine.army,available,19.99,,high,low,13,name.com,,,
 855d8d08-e01e-4577-b481-7fed44e8320e,tonguesushi.army,available,19.99,,low,low,12,name.com,,,
 126e90d2-db1f-47c8-a691-306512bff704,jewelry.army,available,19.99,,high,low,7,name.com,,,
-4252b182-933d-4034-bc55-d49f9683312c,AOL.army,available,,,high,low,3,,,,
+4252b182-933d-4034-bc55-d49f9683312c,aol.army,available,,,high,low,3,,,,
 b12a7883-6dc3-4ac7-b39d-55e90652334c,robed.army,available,17.48,48.98,low,low,5,namecheap,,,06/08/2026 05:03
 e735955c-eb8e-4a37-8faf-48d1b59b4345,neveragain.army,available,19.99,,low,low,11,name.com,,,
 c0b00180-e913-4f23-90ce-0051be085874,anguished.army,available,17.48,48.98,low,low,9,namecheap,,,
-58dc8e12-8f38-412e-8ce2-0f7e993b339e,team.army,available,,,high,medium,4,,,,
 43729f30-87d4-4d5b-b090-35c764bb3165,inverse.army,available,19.99,,high,low,7,name.com,,,
 30cb07c3-a743-4d42-acb3-6dffd8fd2498,glitter.army,available,19.99,,high,low,7,name.com,,,
 b15445df-c9d0-450b-a8b0-ef920b71bbc9,scorched.army,available,17.48,48.98,low,low,8,namecheap,,,
@@ -988,7 +984,7 @@ edaa78eb-46f7-4d26-b972-021fbb4bb430,tohell.army,available,19.99,,low,low,7,name
 2bfdf1a9-3efe-4bf9-a48b-f79f28b14f54,bush.army,available,19.99,,medium,low,4,name.com,,,
 857d7c3e-4358-4608-bc43-88797f3c7d1d,discdrive.army,available,19.99,,high,low,10,name.com,,,
 35129e1b-4411-440d-ae5d-1a1a1dcf224b,tks.army,available,19.99,,high,low,3,name.com,,,
-4bd0d799-c732-481f-8e04-4879629d0027,MexicoCity.army,available,19.99,,medium,low,11,name.com,,,
+4bd0d799-c732-481f-8e04-4879629d0027,mexicocity.army,available,19.99,,medium,low,11,name.com,,,
 41f39b59-b15f-4f0b-b48b-dc6fecb10b05,showoff.army,available,19.99,,medium,low,8,name.com,,,
 7021b827-a25a-458f-b543-95d687d62626,nowandthen.army,available,19.99,,low,low,12,name.com,,,
 52a83245-c3cb-41f3-9187-43b5a020bd2f,granted.army,available,19.99,,high,low,7,name.com,,,
@@ -999,3 +995,7 @@ b4564199-4b41-43d7-aa09-2610f051bf50,year.army,available,19.99,,high,low,4,name.
 51c899c0-2552-412f-8c29-e91b4a91a1bf,saucer.army,available,19.99,,high,low,6,name.com,,,
 25df0cb4-04bd-4645-98a7-b1b92c7dfd14,arum.army,available,17.48,48.98,low,low,4,namecheap,,,06/08/2026 20:20
 86ccdfec-2216-465f-a336-c0d26b4c1c8e,bad.army,available,19.99,,high,medium,3,name.com,,,
+b99420c7-7563-445e-94d5-5d1e6e6db9d6,screwloose.army,available,19.99,,low,low,11,name.com,,,
+80f76139-2e8d-42b7-98b4-f2f8b0d8c804,leading.army,available,19.99,50.99,high,low,7,name.com,,,
+258a1b73-9017-4412-9932-7125db6a6c76,reassuringly.army,available,19.99,,medium,low,12,name.com,,,
+ee7d0bc2-a630-4c98-8875-ab0623e05fea,knotty.army,available,17.48,48.98,low,low,6,namecheap,,,08/08/2026 08:12
