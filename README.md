@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .army one-word domains from
 
 **Public extract:** 1,000 rows · **Live catalog:** 29,580 domains · **Median ask:** $20.83 · **High-demand under $2,500:** 2
 
-**Last updated:** 2026-09-23
+**Last updated:** 2026-09-24
 **Canonical page:** `https://unique.domains/domains/tld/army`
 **Best for:** founders, investors, studios
 
@@ -64,26 +64,26 @@ print(df.head())
 
 | domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar      |
 | --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------- |
-| period.army     | available | $19.99    | —             | high           | low    | 6      | name.com       |
-| bang.army       | available | $19.99    | —             | high           | low    | 4      | name.com       |
-| soft.army       | available | $19.99    | $50.99        | high           | low    | 4      | name.com       |
-| smooth.army     | available | $19.99    | —             | high           | low    | 6      | name.com       |
 | act.army        | available | $19.99    | —             | high           | low    | 3      | name.com       |
 | copy.army       | resell    | —         | —             | high           | low    | 4      | Porkbun LLC    |
-| asia.army       | premium   | $242      | $242          | high           | low    | 4      | namesilo       |
+| for.army        | premium   | $118.80   | $118.80       | high           | medium | 3      | namesilo       |
 | ain.army        | available | $17.48    | $48.98        | low            | low    | 3      | namecheap      |
 | revolution.army | resell    | —         | —             | medium         | low    | 10     | InterNetX GmbH |
-| best.army       | premium   | $520      | $520          | medium         | low    | 4      | namecheap      |
+| asia.army       | premium   | $242      | $242          | high           | low    | 4      | namesilo       |
 | are.army        | available | $19.99    | —             | high           | low    | 3      | name.com       |
-| live.army       | premium   | $78.54    | $78.54        | medium         | low    | 4      | namesilo       |
+| best.army       | premium   | $520      | $520          | medium         | low    | 4      | namecheap      |
 | bad.army        | available | $18.99    | $39.99        | medium         | low    | 3      | namesilo       |
-| sexy.army       | premium   | $78.54    | $78.54        | medium         | low    | 4      | namesilo       |
+| live.army       | premium   | $78.54    | $78.54        | medium         | low    | 4      | namesilo       |
 | ego.army        | available | $19.99    | —             | medium         | low    | 3      | name.com       |
-| cross.army      | premium   | $242      | $242          | low            | low    | 5      | namesilo       |
+| sexy.army       | premium   | $78.54    | $78.54        | medium         | low    | 4      | namesilo       |
 | icu.army        | available | $19.99    | —             | high           | low    | 3      | name.com       |
-| stark.army      | premium   | $118.80   | $118.80       | low            | low    | 5      | namesilo       |
+| cross.army      | premium   | $242      | $242          | low            | low    | 5      | namesilo       |
 | lvi.army        | available | $17.48    | $48.98        | low            | low    | 3      | namecheap      |
+| stark.army      | premium   | $118.80   | $118.80       | low            | low    | 5      | namesilo       |
+| mop.army        | available | $19.99    | —             | high           | low    | 3      | name.com       |
 | career.army     | premium   | $854      | $854          | high           | low    | 6      | namesilo       |
+| nwo.army        | available | $19.99    | —             | medium         | low    | 3      | name.com       |
+| marine.army     | premium   | $118.80   | $118.80       | high           | low    | 6      | namesilo       |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .ARMY One-Word Domains*. Version 2026-09-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .ARMY One-Word Domains*. Version 2026-09-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
