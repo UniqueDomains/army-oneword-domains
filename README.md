@@ -1,10 +1,10 @@
-# Available .ARMY One-Word Domains (30,514)
+# Available .ARMY One-Word Domains (32,035)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-30%2C514%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-32%2C035%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .army one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **30,514 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **32,035 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 30,514 domains · **Median ask:** $21.57 · **High-demand under $2,500:** 5
+**Public extract:** 1,000 rows · **Live catalog:** 32,035 domains · **Median ask:** $21.40 · **High-demand under $2,500:** 5
 
-**Last updated:** 2026-10-01
+**Last updated:** 2026-10-02
 **Canonical page:** `https://unique.domains/domains/tld/army`
 **Best for:** founders, investors, studios
 
@@ -64,25 +64,25 @@ print(df.head())
 
 | domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar   |
 | --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------- |
-| apc.army        | available | $17.48    | $48.98        | high           | low    | 3      | namecheap   |
+| aip.army        | available | $15.73    | $31.25        | high           | low    | 3      | spaceship   |
 | tee.army        | premium   | $66.50    | —             | high           | low    | 3      | unstoppable |
-| arb.army        | available | $18.99    | $39.99        | high           | low    | 3      | namesilo    |
+| apc.army        | available | $17.48    | $48.98        | high           | low    | 3      | namecheap   |
 | atlanta.army    | premium   | $250      | $250          | high           | low    | 7      | name.com    |
-| asm.army        | available | $15.73    | $31.25        | high           | low    | 3      | spaceship   |
+| arb.army        | available | $18.99    | $39.99        | high           | low    | 3      | namesilo    |
 | friends.army    | premium   | $854      | $854          | high           | medium | 7      | namesilo    |
-| auc.army        | available | $18.99    | $39.99        | high           | low    | 3      | namesilo    |
+| asm.army        | available | $15.73    | $31.25        | high           | low    | 3      | spaceship   |
 | wyoming.army    | premium   | $242      | $242          | high           | low    | 7      | namesilo    |
-| bap.army        | available | $18.99    | $39.99        | high           | low    | 3      | namesilo    |
+| auc.army        | available | $18.99    | $39.99        | high           | low    | 3      | namesilo    |
 | patriots.army   | premium   | $72.60    | $72.60        | high           | low    | 8      | dynadot     |
-| bbl.army        | available | $17.48    | $48.98        | high           | low    | 3      | namecheap   |
+| bap.army        | available | $18.99    | $39.99        | high           | low    | 3      | namesilo    |
 | portland.army   | premium   | $242      | $242          | high           | low    | 8      | namesilo    |
-| bev.army        | available | $18.99    | $39.99        | high           | low    | 3      | namesilo    |
+| bbl.army        | available | $17.48    | $48.98        | high           | low    | 3      | namecheap   |
 | worldwide.army  | premium   | $71.40    | $71.40        | high           | medium | 9      | namesilo    |
-| bpm.army        | available | $18.99    | $39.99        | high           | low    | 3      | namesilo    |
+| bev.army        | available | $18.99    | $39.99        | high           | low    | 3      | namesilo    |
 | deployment.army | premium   | $68.51    | $68.51        | high           | low    | 10     | spaceship   |
-| day.army        | available | $18.99    | $39.99        | high           | low    | 3      | namesilo    |
+| bpm.army        | available | $18.99    | $39.99        | high           | low    | 3      | namesilo    |
 | huntsville.army | premium   | $78.54    | $78.54        | high           | low    | 10     | namesilo    |
-| dba.army        | available | $22.99    | $65.99        | high           | low    | 3      | godaddy     |
+| cem.army        | available | $18.99    | $39.99        | high           | low    | 3      | namesilo    |
 | fairbanks.army  | premium   | —         | —             | medium         | low    | 9      | —           |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 30,514 live domains                        |
+| 1,000-row public sample | 32,035 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 5 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .ARMY One-Word Domains*. Version 2026-10-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .ARMY One-Word Domains*. Version 2026-10-02. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
